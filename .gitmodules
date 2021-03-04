@@ -1,0 +1,6 @@
+[submodule "sub"]
+	path = sub
+	url = https://github.com/IsaqueRocha/sub-app-kafka.git
+[submodule "pub"]
+	path = pub
+	url = https://github.com/IsaqueRocha/pub-app-kafka.git
